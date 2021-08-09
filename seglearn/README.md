@@ -3,7 +3,7 @@
 ### URLs
 * GitHub: https://github.com/dmbee/seglearn
 * Docs: https://dmbee.github.io/seglearn/
-* PyPA: https://pypi.org/project/seglearn/
+* PyPI: https://pypi.org/project/seglearn/
     * Release History: https://pypi.org/project/seglearn/#history
 * Paper: https://arxiv.org/abs/1803.08118
 

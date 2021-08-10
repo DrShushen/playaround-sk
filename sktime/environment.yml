@@ -24,6 +24,7 @@ dependencies:
   - pip:
     - backports-zoneinfo==0.2.1
     - catch22==0.2.0
+    - esig==0.9.7 
     - numpy==1.19.5
     - pmdarima==1.8.2
     - setuptools-git==1.2

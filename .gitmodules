@@ -1,0 +1,3 @@
+[submodule "sktime/sktime"]
+	path = sktime/sktime
+	url = git@github.com:alan-turing-institute/sktime.git

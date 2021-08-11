@@ -1,3 +1,6 @@
 [submodule "sktime/sktime"]
 	path = sktime/sktime
 	url = git@github.com:alan-turing-institute/sktime.git
+[submodule "sklearn/scikit-learn"]
+	path = sklearn/scikit-learn
+	url = git@github.com:scikit-learn/scikit-learn.git
